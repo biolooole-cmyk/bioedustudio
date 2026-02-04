@@ -54,6 +54,12 @@ const DATA = [
         cover: 'images/Годівничку ти змайструй....jpeg'
     },
     {
+        title: 'Лайкоманія',
+        description: 'Відео про вплив соцмереж на емоції підлітків і важливість цінувати себе поза лайками.',
+        url: 'https://drive.google.com/file/d/1TFV2mls4mCCTBCR-sDJcgLIdUeSihZ3e/view?usp=sharing',
+        cover: 'images/Лайк.jpeg'
+    },
+    {
         title: 'Шкода тютюнопаління',
         description: 'Профілактичне відео, яке розкриває негативний вплив тютюнопаління на здоров\'я людини.',
         url: 'https://drive.google.com/file/d/1IcdY9gO79o9nqvGyGsttfoHxMruu_FsQ/view',
